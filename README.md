@@ -36,3 +36,8 @@ conseguiremos futuramente dimensionar melhor a força de trabalho necessária em
 * Calcula idade;
 * Finaliza projeto;
 
+
+
+
+
+<h4>É NECESSÁRIO O ORACLE PARA RODAR O PROJETO</h4>
